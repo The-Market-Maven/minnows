@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="!Minnows:jar">
+    <output-path>$USER_HOME$/Dreambot/Scripts</output-path>
+    <root id="archive" name="!Minnows.jar">
+      <element id="module-output" name="!Minnows" />
+      <element id="extracted-dir" path="$USER_HOME$/DreamBot/Scripts/API.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
